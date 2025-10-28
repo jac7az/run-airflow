@@ -1,5 +1,7 @@
 # Run Apache Airflow
 
+v3.0.1
+
 Use this to run Airflow locally in a development environment. NOT recommended for any production use cases.
 
 ## Start Airflow
