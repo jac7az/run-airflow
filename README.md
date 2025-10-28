@@ -25,3 +25,6 @@ From the same (root) directory of this project as above, issue this command in y
 docker compose down
 ```
 
+## Setup and Working with AWS Credentials
+
+[![Run Airflow](https://s3.amazonaws.com/uvasds-systems/images/run-airflow-youtube.png)](https://www.youtube.com/watch?v=muofVU8gkEQ)
