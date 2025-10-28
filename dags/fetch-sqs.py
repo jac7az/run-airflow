@@ -27,7 +27,11 @@ dag = DAG(
 
 def fetch_sqs_message():
     """
-    Fetch values from the API 5 times, add them up, and log the result.
+    Fetch a message from SQS and display it. Easy peasy.
+    However, getting AWS credentials into the DAG must be done by Airflow ENV variables
+    and not just simple OS env variables. See the SQS client below, which maps Airflow vars
+    with the expected AWS credential varibles. Set these values in the Airflow UI:
+        Admin --> Variables --> Add Variable
     """
 
     queue_url = "https://sqs.us-east-1.amazonaws.com/440848399208/nem2p"
