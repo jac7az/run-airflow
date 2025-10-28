@@ -26,9 +26,6 @@
 #
 # Feel free to modify this file to suit your needs.
 ---
-AIRFLOW_UID=1000
-AIRFLOW_GID=992
-
 x-airflow-common:
   &airflow-common
   # In order to add custom dependencies or upgrade provider distributions you can use your extended image.
