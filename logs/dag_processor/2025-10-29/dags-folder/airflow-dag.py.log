@@ -1,0 +1,513 @@
+{"timestamp":"2025-10-29T01:16:28.370724","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:16:29.429011","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:16:35.637219","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:16:36.411067","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:16:36.415870","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:16:36.416952","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:17:06.629574","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:17:06.635911","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:17:07.245956","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:17:07.364970","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:17:07.365790","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:17:07.366170","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:18:32.041089","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:18:32.046214","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:18:33.479100","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:18:33.993050","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:18:33.995713","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:18:33.997201","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:04.794034","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:19:04.906205","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:19:06.469379","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:19:06.767290","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:06.771159","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:06.771669","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:36.980386","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:19:36.986843","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:19:37.588514","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:19:37.773798","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:37.774943","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:19:37.775661","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:08.371631","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:20:08.376786","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:20:09.009943","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:20:09.141647","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:09.143080","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:09.143513","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:39.287585","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:20:39.293925","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:20:39.932981","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:20:40.044428","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:40.045781","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:20:40.046268","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:10.894574","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:21:10.898926","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:21:11.901058","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:21:12.003440","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:12.005470","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:12.006126","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:42.169756","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:21:42.174628","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:21:42.851311","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:21:42.972843","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:42.974178","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:21:42.974768","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:13.562545","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:22:13.567528","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:22:14.181032","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:22:14.281927","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:14.283281","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:14.283713","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:44.478655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:22:44.485152","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:22:45.731832","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:22:45.826419","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:45.827578","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:22:45.828015","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:16.010992","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:23:16.015467","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:23:16.696587","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:23:16.812723","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:16.813996","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:16.814453","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:47.039044","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:23:47.046406","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:23:47.864829","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:23:48.007822","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:48.009213","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:23:48.010105","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:18.391880","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:24:18.397572","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:24:19.185876","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:24:19.323547","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:19.325152","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:19.325635","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:49.595421","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:24:49.599721","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:24:50.286895","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:24:50.409814","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:50.411188","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:24:50.411676","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:20.762579","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:25:20.780858","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:25:24.215279","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:25:24.434666","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:24.436581","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:24.437332","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:55.061600","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:25:55.065443","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:25:55.812085","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:25:55.952367","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:55.953803","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:25:55.954325","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:26.252412","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:26:26.258269","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:26:26.927519","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:26:27.032121","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:27.033612","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:27.034058","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:57.545984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:26:57.550011","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:26:58.871429","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T01:26:59.418522","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:59.419439","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:26:59.419908","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:05.267199","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:27:05.278993","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:05.279791","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:05.280422","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:16.179976","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:27:16.187367","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:16.187748","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:27:16.188036","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:30:46.586426","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T01:30:46.592600","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:30:46.593067","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T01:30:46.593408","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:25:37.363076","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:25:37.377573","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:25:37.378204","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:25:37.378762","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:07.904418","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:26:07.909796","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:07.910344","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:07.911026","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:38.159620","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:26:38.164804","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:38.165532","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:26:38.165947","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:08.457475","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:27:08.462499","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:08.462917","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:08.463230","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:38.739885","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:27:38.743306","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:38.743704","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:27:38.744014","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:09.286895","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:28:09.292729","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:09.293402","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:09.294060","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:39.714664","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:28:39.725680","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:39.727496","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:28:39.731080","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:09.932344","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:29:09.935979","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:09.936436","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:09.936765","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:40.278512","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:29:40.283079","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:40.283569","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:29:40.283926","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:10.417898","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:30:10.422596","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:10.423025","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:10.423377","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:41.190780","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:30:41.196015","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:41.196585","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:30:41.196977","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:11.753513","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:31:11.764817","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:11.766026","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:11.767070","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:42.853345","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:31:42.858226","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:42.858856","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:31:42.859238","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:13.448671","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:32:13.452979","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:13.453386","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:13.453684","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:43.626398","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:32:43.630309","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:43.630683","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:32:43.630945","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:14.377300","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:33:14.381584","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:14.381964","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:14.382229","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:45.037742","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:33:45.047958","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:45.048885","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:33:45.049622","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:15.920829","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:34:15.927510","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:15.928218","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:15.928698","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:46.662027","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:34:46.667105","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:46.667537","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:34:46.667826","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:17.254005","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:35:17.258923","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:17.259508","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:17.259901","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:48.182998","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:35:48.187716","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:48.188210","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:35:48.188578","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:19.210411","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:36:19.214281","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:19.214639","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:19.214880","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:50.277050","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:36:50.285953","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:50.286812","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:36:50.287354","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:21.282085","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:37:21.295328","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:21.296398","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:21.297603","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:52.329393","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:37:52.335369","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:52.335788","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:37:52.336043","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:22.673905","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:38:22.677811","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:22.678226","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:22.678499","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:53.115075","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:38:53.119138","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:53.119477","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:38:53.119706","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:23.766097","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:39:23.769732","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:23.770056","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:23.770292","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:54.032148","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:39:54.037056","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:54.037562","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:39:54.037970","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:24.773837","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:40:24.777230","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:24.777807","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:24.778491","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:55.329612","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:40:55.335353","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:55.335850","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:40:55.336177","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:25.956217","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:41:25.960982","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:25.961438","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:25.961721","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:57.023834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:41:57.027205","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:57.027556","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:41:57.027844","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:27.696347","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:42:27.700244","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:27.700587","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:27.700853","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:58.053852","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:42:58.058519","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:58.059127","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:42:58.059602","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:28.337678","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:43:28.344059","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:28.344599","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:28.344926","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:58.624078","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:43:58.636807","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:58.638039","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:43:58.640092","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:28.996776","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:44:29.000423","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:29.000771","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:29.001012","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:59.871739","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:44:59.881513","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:59.882398","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:44:59.883138","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:45:30.234968","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:45:30.239310","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:45:30.239953","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:45:30.240358","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:00.821726","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:46:00.832590","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:00.833520","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:00.834188","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:31.721421","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:46:31.752159","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:31.753316","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:46:31.754105","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:03.376597","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:47:03.381118","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:03.381501","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:03.381738","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:33.591499","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:47:33.595609","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:33.595943","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:47:33.596193","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:04.492734","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:48:04.496158","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:04.496510","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:04.496743","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:35.015845","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:48:35.019257","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:35.019570","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:48:35.019797","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:05.319954","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:49:05.323188","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:05.323517","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:05.323756","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:35.527603","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:49:35.531659","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:35.531980","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:49:35.532547","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:06.635086","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:50:06.655836","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:06.660005","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:06.662137","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:36.899287","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:50:36.904015","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:36.904524","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:50:36.904896","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:06.126970","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:51:06.155295","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:06.157898","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:06.158814","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:36.686110","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:51:36.691088","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:36.691565","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:36.691907","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:37.848837","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:51:37.864094","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:37.864837","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:37.865321","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:52:08.493519","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:52:08.499680","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:52:08.500096","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:52:08.500393","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:52:14.763809","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:52:14.773391","level":"error","event":"Failed to import: /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"NameError","exc_value":"name 'logger' is not defined","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":382,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":999,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"},{"filename":"/opt/airflow/dags/airflow-dag.py","lineno":174,"name":"<module>"}]}]}
+{"timestamp":"2025-10-29T05:52:15.885925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:52:15.891018","level":"error","event":"Failed to import: /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"NameError","exc_value":"name 'logger' is not defined","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":382,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":999,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"},{"filename":"/opt/airflow/dags/airflow-dag.py","lineno":174,"name":"<module>"}]}]}
+{"timestamp":"2025-10-29T05:52:31.909950","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:52:32.087948","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:52:33.271228","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:53:04.107862","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:53:34.324744","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:54:05.320399","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:54:35.855999","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:55:06.484216","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:55:37.620419","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:56:07.820083","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:56:37.966799","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:57:08.749785","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:57:39.002815","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:58:09.402713","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:58:39.773328","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:59:09.962034","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:59:40.193125","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:00:10.593195","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:00:40.743445","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:01:10.880481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:01:41.043920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:02:12.018456","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:02:42.347430","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:03:13.353304","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:03:44.114770","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:04:15.183364","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:04:45.502335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:05:15.687017","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:05:45.905630","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:06:16.131175","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:06:46.429955","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:07:16.840179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:07:47.268081","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:08:17.693563","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:08:47.984880","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:09:18.169440","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:09:48.738674","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:10:19.064811","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:10:49.370405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:11:19.671433","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:11:49.925474","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:12:20.552641","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:12:51.582595","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:13:21.842081","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:13:52.157542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:14:23.052917","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:14:53.693812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:15:23.947487","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:15:54.825942","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:16:25.036332","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:16:55.547694","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:17:25.684691","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:17:56.560961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:18:26.771458","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:18:56.926646","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:19:27.514962","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:19:58.507343","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:20:28.657074","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:20:59.496760","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:21:29.888759","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:22:00.873688","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:22:31.852221","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:23:02.026582","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:23:31.683251","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:24:02.978159","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:24:33.655690","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:25:03.948705","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:25:34.323327","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:26:04.809216","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:26:35.944000","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:27:06.674845","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:27:37.542268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:28:08.508931","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:28:38.828281","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:29:09.147651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:29:39.853877","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:30:10.615667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:30:40.917283","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:31:11.456766","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:31:41.734080","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:32:12.550541","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:32:42.944955","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:33:13.524772","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:33:43.856359","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:34:14.087533","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:34:44.201585","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:35:14.680777","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:35:45.100453","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:36:15.991972","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:36:46.286696","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:37:16.692637","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:37:47.593973","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:38:17.712364","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:38:48.693694","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:39:19.940904","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:39:50.481993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:40:20.721014","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:40:51.530792","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:41:21.757867","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:41:52.581723","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:42:23.624619","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:42:54.015814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:43:25.144690","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:43:55.766782","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:44:26.407313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:44:56.870202","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:45:27.080481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:45:58.547179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:46:29.329885","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:46:59.511548","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:47:29.892242","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:48:01.004158","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:48:22.069406","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:48:22.229868","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:48:22.360679","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:48:52.860447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:49:24.845811","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:49:55.949195","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:50:26.594111","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:50:57.100983","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:51:00.511257","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:51:31.066855","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:52:01.444962","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:52:03.784057","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:52:05.812362","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:52:36.139686","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:53:06.966063","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:53:37.741650","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:54:08.143449","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:54:38.729039","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:55:06.383517","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:55:37.107350","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:56:07.951540","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:56:38.091963","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:57:08.771953","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:57:39.519972","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:58:10.068006","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:58:41.081036","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:59:11.293253","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:59:46.329542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:00:17.012295","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:00:47.206515","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:01:18.266272","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:01:49.073932","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:02:19.304843","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:02:49.772533","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:03:20.317119","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:03:51.285348","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:04:21.459102","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:04:51.734882","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:05:22.218741","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:05:52.690280","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:06:23.600824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:06:54.286196","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:07:25.206176","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:07:55.451457","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:08:26.174457","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:08:56.462793","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:09:27.459248","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:09:57.748883","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:10:28.392967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:10:59.939552","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:11:39.643314","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:12:25.243092","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:12:55.988012","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:13:53.144619","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:14:28.886275","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}

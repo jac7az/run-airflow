@@ -1,0 +1,15 @@
+{"timestamp":"2025-10-29T05:51:19.671641","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T05:51:19.674841","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T05:51:19.873084","level":"info","event":"Message populated: <Task(PythonOperator): populate_message>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:19.875201","level":"info","event":"Phrase extracted: <Task(PythonOperator): process_and_assemble_messages>","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:19.877383","level":"info","event":"Submission sent.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:20.793200Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:20.793447Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:20.793544Z","level":"info","event":"Current task name:populate_message","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:20.793623Z","level":"info","event":"Dag name:sqs_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:21.135051","level":"info","event":"Got sqs url: https://sqs.us-east-1.amazonaws.com/440848399208/jac7az","logger":"airflow.task"}
+{"timestamp":"2025-10-29T05:51:21.135304","level":"info","event":"Done. Returned value was: https://sqs.us-east-1.amazonaws.com/440848399208/jac7az","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-29T05:51:21.135626","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a2e85-385e-746e-a3a1-f0f6517f1e2a'), task_id='populate_message', dag_id='sqs_pipeline', run_id='manual__2025-10-29T05:51:13.826591+00:00', try_number=1, map_index=-1, hostname='a99873f5cfb9', context_carrier={}, task=<Task(PythonOperator): populate_message>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=1, start_date=datetime.datetime(2025, 10, 29, 5, 51, 15, 426967, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
+{"timestamp":"2025-10-29T05:51:21.202412Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:21.202606Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T05:51:21.202687Z","level":"info","event":"Task operator:<Task(PythonOperator): populate_message>","chan":"stdout","logger":"task"}

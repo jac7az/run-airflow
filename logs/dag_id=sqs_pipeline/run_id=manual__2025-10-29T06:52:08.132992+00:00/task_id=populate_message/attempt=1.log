@@ -1,0 +1,12 @@
+{"timestamp":"2025-10-29T06:52:13.792904","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T06:52:13.794342","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:52:14.013787Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:14.014053Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:14.014141Z","level":"info","event":"Current task name:populate_message","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:14.014262Z","level":"info","event":"Dag name:sqs_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:15.339070","level":"info","event":"Got sqs url: https://sqs.us-east-1.amazonaws.com/440848399208/jac7az","logger":"airflow.task"}
+{"timestamp":"2025-10-29T06:52:15.339370","level":"info","event":"Done. Returned value was: https://sqs.us-east-1.amazonaws.com/440848399208/jac7az","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-29T06:52:15.339712","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a2ebc-fa6f-73ee-a520-7e52721156d9'), task_id='populate_message', dag_id='sqs_pipeline', run_id='manual__2025-10-29T06:52:08.132992+00:00', try_number=1, map_index=-1, hostname='a99873f5cfb9', context_carrier={}, task=<Task(PythonOperator): populate_message>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=1, start_date=datetime.datetime(2025, 10, 29, 6, 52, 12, 281287, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
+{"timestamp":"2025-10-29T06:52:15.380863Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:15.381032Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:52:15.381099Z","level":"info","event":"Task operator:<Task(PythonOperator): populate_message>","chan":"stdout","logger":"task"}

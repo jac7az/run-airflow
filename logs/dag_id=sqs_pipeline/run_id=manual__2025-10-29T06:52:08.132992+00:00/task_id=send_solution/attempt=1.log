@@ -1,0 +1,13 @@
+{"timestamp":"2025-10-29T07:06:46.847955","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T07:06:46.848872","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T07:06:47.082061Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.082265Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.082399Z","level":"info","event":"Current task name:send_solution","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.082481Z","level":"info","event":"Dag name:sqs_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.048096","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T07:06:47.082503","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T07:06:47.766187","level":"info","event":"Response: {'MD5OfMessageBody': '683d9485fbc7284931fd0f386e454a06', 'MD5OfMessageAttributes': '09027950c45cd32390f9df7a59aa1dd1', 'MessageId': 'bbe6fae9-13f7-4df0-9701-58f51cbd7243', 'ResponseMetadata': {'RequestId': '14095d71-47f8-5d78-bd4e-3c0af8b0e3d6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '14095d71-47f8-5d78-bd4e-3c0af8b0e3d6', 'date': 'Wed, 29 Oct 2025 07:06:48 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '166', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}","logger":"airflow.task"}
+{"timestamp":"2025-10-29T07:06:47.767807","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-29T07:06:47.793895Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.794106Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T07:06:47.794191Z","level":"info","event":"Task operator:<Task(PythonOperator): send_solution>","chan":"stdout","logger":"task"}

@@ -1,0 +1,13 @@
+{"timestamp":"2025-10-29T06:53:58.280676","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-29T06:53:58.281609","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-29T06:53:58.552575Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:53:58.552887Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:53:58.553007Z","level":"info","event":"Current task name:process_and_assemble_messages","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:53:58.553108Z","level":"info","event":"Dag name:sqs_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:53:58.511312","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T06:53:58.553404","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-29T06:53:59.541433","level":"info","event":"0 available. 21 left.","logger":"airflow.task"}
+{"timestamp":"2025-10-29T06:53:59.542336Z","level":"info","event":"Response: {'Attributes': {'ApproximateNumberOfMessages': '0', 'ApproximateNumberOfMessagesNotVisible': '0', 'ApproximateNumberOfMessagesDelayed': '21'}, 'ResponseMetadata': {'RequestId': '8d7fbd3c-5fc6-5dba-8d7b-dc47e38e6f90', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '8d7fbd3c-5fc6-5dba-8d7b-dc47e38e6f90', 'date': 'Wed, 29 Oct 2025 06:54:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '136', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-29T06:54:09.578391","level":"info","event":"Messages empty. Pausing for 15sec","logger":"airflow.task"}
+{"timestamp":"2025-10-29T06:54:14.638915Z","level":"error","event":"Server indicated the task shouldn't be running anymore. Terminating process","detail":{"detail":{"reason":"not_running","message":"TI is no longer in the running state and task should terminate","current_state":"failed"}},"logger":"task"}
+{"timestamp":"2025-10-29T06:54:14.670748Z","level":"error","event":"Task killed!","logger":"task"}
